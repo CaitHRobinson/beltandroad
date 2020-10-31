@@ -13,5 +13,5 @@ The mapping illustrates how the node/corridor geographies of the BRI are less li
 described as a “battery” for China because of the scale of hydropower development underway in the region. Many other projects, however, are not directly driven by a need to secure energy flows for China’s consumption, but are oriented more towards advancing China’s international aid profile, securing construction contracts for state‐owned
 enterprises and seeking profitable investment opportunities for financiers.
 
-### Datasets
+### Additional datasets
 Country shapefiles are available for download from [eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries). We selected the *CNTT_RG_01M_2016_3857* shapefile.
