@@ -13,5 +13,7 @@ The mapping illustrates how the node/corridor geographies of the BRI are less li
 described as a “battery” for China because of the scale of hydropower development underway in the region. Many other projects, however, are not directly driven by a need to secure energy flows for China’s consumption, but are oriented more towards advancing China’s international aid profile, securing construction contracts for state‐owned
 enterprises and seeking profitable investment opportunities for financiers.
 
-### Additional datasets
-Country shapefiles are available for download from [eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries). We selected the *CNTT_RG_01M_2016_3857* shapefile.
+### Datasets
+Energy-related projects are provided as a csv. and shapefile. Each contains the name, country, location, status and cost of energy-related projects connected to China's Belt and Road Initiative. All of the projects are at least partially funded by Chinese investors, often the Asian Investment Bank or the Export-Import Bank of China. Project data were obtained from an extensive search of news articles, reports and blogs that was up to date in August 2019. ECN (2016) and BUGDPC (2019) were particularly useful as a starting point for the searches. The list is unlikely to be exhaustive as project information can be difficult to obtain, and projects are regularly proposed or cancelled. 
+
+The world countries shapefile is available for download from [eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries). We selected the *CNTT_RG_01M_2016_3857* shapefile.
