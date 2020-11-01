@@ -1,5 +1,5 @@
 ## Set your working directory
-setwd("C:/Users/chrobin/OneDrive - The University of Liverpool/Projects/BRI")
+setwd("/beltandroad")
 getwd()
 
 # Install spatial packages
@@ -18,7 +18,7 @@ plot(st_geometry(briprojects_sf)) # Plot only the boundaries
 library("RColorBrewer")
 
 # Create a colour palette
-pal <- rev(brewer.pal(6, ("YlGnBu"))) # select 4 colors from the palette
+pal <- rev(brewer.pal(6, ("YlGnBu"))) # select 6 colors from the palette
 class(pal)
 
 # Plot map with countries as polygons and projects as bubbles (sized according to cost of the project)
